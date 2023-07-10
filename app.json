@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "sdkVersion": "48.0.0",
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro",
+      "output": "static"
+    },
+    "name": "instagram-layout",
+    "slug": "instagram-layout",
+    "experiments": {
+      "tsconfigPaths": true,
+      "typedRoutes": true
+    }
+  }
+}
