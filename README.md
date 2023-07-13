@@ -1,5 +1,5 @@
 # Expo Router Instagram responsive layout demo using SCSS
-
+## web, ios, android, iwatch
 
 https://github.com/bolshiyanov/instagram-layout-expo-router-v2/assets/77061059/c92c6dbc-56c0-431e-8897-a01c8825a126
 
